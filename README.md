@@ -114,6 +114,8 @@ pip install -r requirements.txt
 
 <img width="23%" alt="Screenshot 2026-06-28 at 10 19 21 AM" src="https://github.com/user-attachments/assets/fae01e3a-0920-4bc6-945c-def292c5c05e" />
 
+![Uploading Screenshot 2026-06-28 at 10.22.01 AM.png…]()
+
 <img src="assets/detection.png" width="23%">
 
 <img src="assets/mask.png" width="23%">
