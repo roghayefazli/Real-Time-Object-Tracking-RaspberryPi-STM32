@@ -110,11 +110,11 @@ pip install -r requirements.txt
 
 # Example Output
 
-<p align="center">
+
 
 <img width="50%" alt="Screenshot 2026-06-28 at 10 19 21 AM" src="https://github.com/user-attachments/assets/fae01e3a-0920-4bc6-945c-def292c5c05e" />
 
-</p>
+
 
 ---
 
