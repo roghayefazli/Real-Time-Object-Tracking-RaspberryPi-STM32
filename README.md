@@ -1,4 +1,4 @@
-<img width="1325" height="687" alt="Screenshot 2026-06-28 at 10 19 21 AM" src="https://github.com/user-attachments/assets/fae01e3a-0920-4bc6-945c-def292c5c05e" /># Real-Time-Object-Tracking-RaspberryPi-STM32
+# Real-Time-Object-Tracking-RaspberryPi-STM32
 
 # 🎯 Real-Time Human Tracking and Distance Estimation using YOLOv8-Seg on Raspberry Pi 5
 
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 <p align="center">
 
-<img src="assets/input.png" width="23%">
+<img width="23%" alt="Screenshot 2026-06-28 at 10 19 21 AM" src="https://github.com/user-attachments/assets/fae01e3a-0920-4bc6-945c-def292c5c05e" />
 
 <img src="assets/detection.png" width="23%">
 
